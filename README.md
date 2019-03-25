@@ -1,0 +1,2 @@
+# Attendance-Plotter-App-using-Custom-View-in-Android-Studio
+Created an application that receives attendance information (class date &amp; number of students in attendance) from a user and plots the input data on a line graph using a custom view, which also gives the user an ability to highlight the plotted area and increase the diameter of the plotted points using a seekbar for better visualization 
